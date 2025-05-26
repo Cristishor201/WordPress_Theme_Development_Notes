@@ -10,7 +10,8 @@ HTML/<br>
 └── <a href="HTML\1. Tehnici constructie html.md">1. Tehnici constructie html</a>
 
 PHP/<br>
-└── <a href="PHP\1. Adaugat detalii data sau timp.md">1. Adaugat detalii data sau timp</a>
+├── <a href="PHP\1. Adaugat detalii data sau timp.md">1. Adaugat detalii data sau timp</a>
+└── <a href="Plugin\2. Creat custom widget plugin.md">2. Plugin-uri recomandate wordpress</a>
 
 CSS/<br>
 ├── <a href="CSS\1. CSS tricks for responsive design.md">1. CSS tricks for responsive design</a><br>
@@ -36,12 +37,21 @@ CSS/<br>
   <li><a href="Theme\5. Creat un nou meniu.md">5. Creat un nou meniu</a></li>
   <li><a href ="Theme\6. Adaugat stylesheet or JS file.md">6. Adaugat stylesheet or JS file</a></li>
   <li><a href ="Theme\7. Custom properties - variabile css.md">7. Custom properties - variabile css</a></li>
+  <li><a href="Theme\9. Adaugat obtiune cautare.md">9. Adaugat obtiune cautare</a</li>
+  <li><a href="Theme\10. Functionalitati imagini.md">10. Functionalitati imagini</a></li>
+  <li><a href="Theme\11. Pagini Template si template part.md">11. Pagini Template si template part</a></li>
+  <li><a href="Theme\12. Creat widget.md">12. Creat widget</a></li>
+  <li><a href="Theme\13. Custom post type.md">13. Custom post type</a></li>
+  <li><a href="Theme\14. Custom fields.md">14. Custom fields</a></li>
+  <li><a href="Theme\15. Filtre continut.md">15. Filtre continut</a></li>
 
 </ul>
 </details><br>
 
 
-Plugin/
+Plugin/<br>
+├── <a href="Plugin\1. Create a new plugin.md">1. Create a new plugin</a>
+└── <a href="Plugin\2. Creat custom widget plugin.md">2. Creat custom widget plugin</a>
 
 
 ## Template Hierarchy
@@ -51,3 +61,10 @@ Plugin/
 ## Template Tags
 
 [Template tags like the_content()](https://codex.wordpress.org/Template_Tags)
+
+<hr>
+
+#### Credits
+
+Most code examples of this project, are coming from [Juan Panlo](https://gist.github.com/codigoconjuan).
+My part is just the overall structure.
