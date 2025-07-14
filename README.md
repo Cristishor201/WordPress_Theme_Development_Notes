@@ -16,7 +16,8 @@ PHP/<br>
 CSS/<br>
 ├── <a href="CSS\1. CSS tricks for responsive design.md">1. CSS tricks for responsive design</a><br>
 ├── <a href="CSS\2. Aliniere elemente.md">2. Aliniere elemente</a><br>
-└── <a href="CSS\3. Clase wordpress.md">3. Clase wordpress</a>
+├── <a href="CSS\3. Clase wordpress.md">3. Clase wordpress</a>
+└── <a href="CSS\4. CSS grid.md">4. CSS grid</a>
 
 <details open>
 <summary>Theme/</summary>
@@ -25,6 +26,9 @@ CSS/<br>
     <ul>
         <li>
             <a href="Theme\adaugat frameworks\8. SlickNav framework.md">8. SlickNav framework</a>
+        </li>
+        <li>
+            <a href="Theme\adaugat frameworks\18. Lightbox framework.md">18. Lightbox framework</a>
         </li>
     </ul>
   </li>
@@ -44,6 +48,8 @@ CSS/<br>
   <li><a href="Theme\13. Custom post type.md">13. Custom post type</a></li>
   <li><a href="Theme\14. Custom fields.md">14. Custom fields</a></li>
   <li><a href="Theme\15. Filtre continut.md">15. Filtre continut</a></li>
+  <li><a href="Theme\16. If-uri pagini.md">16. If-uri pagini</a></li>
+    <li><a href="Theme\17. Debug WordPress.md">17. Debug WordPress</a></li>
 
 </ul>
 </details><br>
