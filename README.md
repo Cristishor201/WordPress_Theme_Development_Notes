@@ -10,14 +10,15 @@ HTML/<br>
 └── <a href="HTML\1. Tehnici constructie html.md">1. Tehnici constructie html</a>
 
 PHP/<br>
-├── <a href="PHP\1. Adaugat detalii data sau timp.md">1. Adaugat detalii data sau timp</a>
+├── <a href="PHP\1. Adaugat detalii data sau timp.md">1. Adaugat detalii data sau timp</a><br>
 └── <a href="Plugin\2. Creat custom widget plugin.md">2. Plugin-uri recomandate wordpress</a>
 
 CSS/<br>
 ├── <a href="CSS\1. CSS tricks for responsive design.md">1. CSS tricks for responsive design</a><br>
 ├── <a href="CSS\2. Aliniere elemente.md">2. Aliniere elemente</a><br>
-├── <a href="CSS\3. Clase wordpress.md">3. Clase wordpress</a>
-└── <a href="CSS\4. CSS grid.md">4. CSS grid</a>
+├── <a href="CSS\3. Clase wordpress.md">3. Clase wordpress</a><br>
+├── <a href="CSS\4. CSS grid.md">4. CSS grid</a><br>
+└── <a href="CSS/5. CSS flexBox.md">5. CSS flexBox</a>
 
 <details open>
 <summary>Theme/</summary>
@@ -56,7 +57,7 @@ CSS/<br>
 
 
 Plugin/<br>
-├── <a href="Plugin\1. Create a new plugin.md">1. Create a new plugin</a>
+├── <a href="Plugin\1. Create a new plugin.md">1. Create a new plugin</a><br>
 └── <a href="Plugin\2. Creat custom widget plugin.md">2. Creat custom widget plugin</a>
 
 
@@ -72,5 +73,10 @@ Plugin/<br>
 
 #### Credits
 
-Most code examples of this project, are coming from [Juan Panlo](https://gist.github.com/codigoconjuan).
+Most code examples of this project, are coming from:
+
+- [Juan Pablo](https://gist.github.com/codigoconjuan)
+- Devarsenal (CSS flexbox)
+- [CSS-tricks](https://css-tricks.com/) (CSS grid)
+
 My part is just the overall structure.
